@@ -22,8 +22,8 @@ const int DH1 = 14;
 #endif
 
 // WiFi settings
-const char* ssid     = "AP ETCASA EXT";
-const char* password = "LUSATODI181163183";
+const char* ssid     = "ssid";
+const char* password = "password";
 const int httpsPort = 443;
 
 // API server
